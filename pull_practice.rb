@@ -29,10 +29,19 @@ def train_noise
   puts "choo choo"
 end
 
+<<<<<<< HEAD
 Task 4: Merge Conflict
 Both partners should modify the same line in different ways.
 Git doesn't know what to do in this case, so you'll have to
 merge the two versions by hand.
 def clock_noise
   puts "tock"
+=======
+# Task 4: Merge Conflict
+# Both partners should modify the same line in different ways.
+# Git doesn't know what to do in this case, so you'll have to
+# merge the two versions by hand.
+# def clock_noise
+#   puts "tick"
+# >>>>>>> 1613bb4d2fe4191f99fe02791c2ec51a1dac9edf
 end
